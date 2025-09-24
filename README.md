@@ -1,4 +1,4 @@
-1.Sum od squares of numbers.
+1.Sum of squares of numbers.
 2.Sum of number raised to the power p.
 3.Factorial
 4.Fibonacci
