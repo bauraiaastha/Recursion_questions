@@ -1,5 +1,5 @@
-Question 1: Sum of squares of numbers
-          1^2 + 2^2 + 3^2.................... + n^2
+//Question 1: Sum of squares of numbers
+         // 1^2 + 2^2 + 3^2.................... + n^2
 
 
 public class SumOfSquares {
